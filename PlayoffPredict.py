@@ -48,7 +48,7 @@ def main():
 	features = list(df.columns)[1:10]
 	print('FEATURE IMPORTANCES')
 	#for i in list(zip(features, clf.feature_importances_)):
-	#	print(i)
+	#print(i)
 
 #End of Main --
 
